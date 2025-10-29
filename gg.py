@@ -377,4 +377,4 @@ st.write(textwrap.dedent('''
 '''))
 
 st.markdown("---")
-st.caption("Prepared for CSM — IA Activity 2 (Game-Based Queuing Simulation). Modify the code to add more detailed metrics like average waiting time per request, service-time distributions, or autoscaling policies.")
+st.caption("Prepared for CSM — IA Activity 2 (Game-Based Queuing Simulation). Under the guidance of Mrs. Grishma Sharma")
